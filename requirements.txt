@@ -1,0 +1,10 @@
+requests
+bs4
+numpy
+pandas
+selenium
+googlemaps
+geopandas
+argparse
+tqdm
+matplotlib

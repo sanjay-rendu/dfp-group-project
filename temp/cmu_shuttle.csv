@@ -1,0 +1,117 @@
+lat,long,name,route
+40.445418,-79.942714,Morewood Gardens Turn-around,A
+40.4445119,-79.9478159,4615 Forbes Avenue,A
+40.4456646,-79.9503605,South Dithridge at Filmore Street,A
+40.4468548,-79.9505544,North Dithridge at Fifth Avenue,A
+40.44898,-79.951796,North Dithridge Street at Bayard Street ,A
+40.451474,-79.953287,North Dithridge Street at Centre Avenue,A
+40.452211,-79.950871,Centre Avenue at Melwood Avenue,A
+40.452548,-79.949838,Centre Avenue at North Neville Street,A
+40.4534709,-79.9464529,Centre Avenue at Devonshire Street,A
+40.4540437,-79.9445085,Centre Avenue at Morewood Avenue,A
+40.454993,-79.941502,Centre Avenue at Cypress Street,A
+40.45586,-79.938605,Centre Avenue at South Aiken Avenue,A
+40.456493,-79.93647,Centre Avenue at South Graham Street,A
+40.457005,-79.934614,Centre Avenue at South Negley Avenue,A
+40.454738,-79.932597,South Negley Avenue at Ellsworth Avenue,A
+40.453425,-79.931816,South Negley Avenue at Elmer Street,A
+40.452074,-79.931003,South Negley Avenue at Walnut Street,A
+40.451215,-79.930499,South Negley Avenue at Howe Street,A
+40.449833,-79.929697,South Negley Avenue at Fifth Avenue,A
+40.448941,-79.93254,Fifth Avenue at Bellfonte Street,A
+40.448431,-79.934195,Fifth Avenue at South Aiken Avenue,A
+40.447839,-79.937092,Fifth Avenue at Wilkins Avenue,A
+40.445559,-79.942768,Morewood Gardens Turn-around,B
+40.4477657,-79.9372052,Fifth Avenue at Wilkins Avenue,B
+40.448463600000004,-79.9341795,Fifth Avenue at South Aiken Avenue,B
+40.44884780000001,-79.9325909,Fifth Avenue at Bellefonte Street,B
+40.451111,-79.930236,South Negley at Howe Street,B
+40.451976,-79.93070800000001,South Negley Avenue at Walnut Street,B
+40.453348,-79.931567,South Negely Avenue and Elmer Street,B
+40.45463,-79.932436,South Negely Avenue at Ellsworth Avenue,B
+40.456509,-79.933514,South Negley Avenue at East Busway,B
+40.4582849,-79.9337849,South Negley @ Baum Blvd.,B
+40.4588874,-79.929051,Centre Avenue at South Euclid Avenue ,B
+40.459518,-79.926438,Centre Avenue at Trade Street (near Walgreens),B
+40.4602905,-79.9239708,Centre Avenue at Annie Place,B
+40.4602785,-79.9217286,Penn Avenue at Spirit Street (near Target),B
+40.459193,-79.92199900000001,Shady Avenue at Ellsworth Avenue,B
+40.456813,-79.922501,Shady Avenue at Alder Street,B
+40.455862,-79.9225871,Shady Avenue at Walnut Street,B
+40.4545438,-79.9218141,Shady Avenue at Howe Street,B
+40.452919,-79.9207625,Shady Avenue at Fifth Avenue,B
+40.4526331,-79.9223368,Fifth Avenue at Emerson Street,B
+40.4520012,-79.9239602,Fifth Avenue at South Highland Avenue,B
+40.4512625,-79.925773,Fifth Avenue at College Street,B
+40.4505619,-79.9274844,Fifth Avenue at Maryland Avenue,B
+40.44989040000001,-79.9296114,Fifth Avenue at South Negley,B
+40.4489739,-79.9325243,Fifth Avenue at Bellefonte Street,B
+40.4483453,-79.9342462,Fifth Avenue at South Aiken Avenue,B
+40.447857400000004,-79.9370706,Fifth Avenue at Wilkins Avenue,B
+40.44551,-79.942714,Morewood Gardens Turn-around,AB
+40.44453,-79.948561,4615 Forbes Avenue,AB
+40.445649,-79.950353,South Dithridge Street at Filmore Street,AB
+40.446988,-79.950621,North Dithridge Street at Fifth Avenue,AB
+40.448939,-79.951694,North Dithridge Street at Bayard Street ,AB
+40.451421,-79.95311,North Dithridge Street at Centre Avenue,AB
+40.452025,-79.951007,Centre Avenue at Melwood Avenue,AB
+40.452417,-79.949741,Centre Avenue at North Neville Street,AB
+40.453454,-79.946631,Centre Avenue at Devonshire Street,AB
+40.45387,-79.944592,Centre Avenue at Morewood Avenue,AB
+40.454866,-79.941598,Centre Avenue and Cypress Street,AB
+40.455568,-79.938884,Centre Avenue at South Aiken Avenue,AB
+40.453315,-79.935365,Ellsworth Avenue at Bellfonte Street,AB
+40.45416,-79.933621,Ellsworth Avenue at Ivy Street,AB
+40.454507,-79.93279,Ellsworth Avenue and South Negley Avenue,AB
+40.45647700000001,-79.933525,South Negley Avenue at East Busway,AB
+40.458291,-79.9338144,South Negley @ Baum Blvd.,AB
+40.4588661,-79.92904,Centre Avenue at South Euclid Avenue,AB
+40.4595484,-79.926395,Centre Avenue at Trade Street,AB
+40.4602822,-79.923957,Center Avenue at Annie Place,AB
+40.460295,-79.9217932,Penn Avenue at Spirit Street,AB
+40.459191,-79.92199100000002,Shady Avenue at Ellsworth Avenue,AB
+40.456807,-79.922487,Shady Avenue at Alder Street,AB
+40.455871,-79.92264600000001,Shady Avenue at Walnut Street,AB
+40.454564,-79.92195400000001,Shady Avenue at Howe Street,AB
+40.453038,-79.920956,Shady Avenue at Fifth Avenue,AB
+40.45205,-79.92396,Fifth Avenue at South Highland Avenue,AB
+40.451389,-79.925816,Fifth Avenue at College Street,AB
+40.450703,-79.927447,Fifth Avenue at Maryland Avenue,AB
+40.450148,-79.929528,Fifth Avenue at South Negley Avenue ,AB
+40.449103,-79.932468,Fifth Avenue at Bellefonte Street,AB
+40.448613,-79.934034,Fifth Avenue at South Aiken Avenue,AB
+40.447915,-79.936856,Fifth Avenue at Wilkins Avenue,AB
+40.44551,-79.942735,Morewood Gardens Turn-around,PTC
+40.440519,-79.94235500000002,Frew Street at Tech Street,PTC
+40.441501,-79.947164,Frew Street (Scaife Hall),PTC
+40.4325981,-79.964247,PTC-Pittsburgh Technology Center,PTC
+40.4337358,-79.9376439,Panther Hollow Road,PTC
+40.4324521,-79.9383728,Greenfield Rd @ Overlook Drive,PTC
+40.4271141,-79.9397046,Alger Street @ Winterburn Avenue,PTC
+40.4262381,-79.9398413,Greenfield Rd @ Winterburn Ave,PTC
+40.4252213,-79.9467936,Greefield Avenue @ Yoder Street,PTC
+40.425156,-79.9471182,Greenfield Avenue @ Yoder Street,PTC
+40.4256052,-79.9423774,Greenfield Ave @ Lydia Street,PTC
+40.4254735,-79.9425302,Greenfield Ave @ Lydia St,PTC
+40.4261075,-79.9399205,Greenfield Avenue @ Winterburn Ave,PTC
+40.4266199,-79.9385793,Ronald Street @ Donegal Way ,PTC
+40.444481,-79.946094,Forbes Avenue (CIC),BS
+40.444057,-79.941888,University Center Turn-around,BS
+40.434242,-79.927833,Wightman Street at Beacon Street,BS
+40.434585,-79.923177,Beacon Street at Murray Avenue,BS
+40.43514,-79.919143,Beacon Street at Shady Avenue,BS
+40.452744,-79.920495,Shady Avenue at Fifth Avenue,BS
+40.45343,-79.91549500000002,Fifth Avenue at Beechwood Blvd.,BS
+40.456075,-79.915152,Bakery Square (Google),BS
+40.456813,-79.922495,Shady Avenue at Alder Street,BS
+40.45596,-79.922726,Shady Avenue at Walnut Street,BS
+40.454556,-79.922018,Shady Avenue at Howe Street,BS
+40.452972,-79.921203,Shady Avenue at Fifth Avenue,BS
+40.452662,-79.922297,Fifth Avenue at Emerson Street,BS
+40.452091,-79.923906,Fifth Avenue at South Highland Avenue,BS
+40.451274,-79.92573,Fifth Avenue at College Street,BS
+40.450572,-79.927468,Fifth Avenu at Maryland Avenue,BS
+40.449952,-79.929528,Fifth Avenue at South Negley Avenue,BS
+40.44858,-79.93412,Fifth Avenue at South Aiken Avenue,BS
+40.447992,-79.936695,Fifth Avenue at Wilkins Avenue,BS
+40.443191,-79.953754,Bigelow Blvd. at Forbess Avenue,BS
